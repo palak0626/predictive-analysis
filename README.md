@@ -30,8 +30,7 @@ The dataset was loaded from a CSV file using pandas.
 - **Total Records:** After cleaning, valid records were used  
 - **Missing Values:** Removed  
 - **Outliers:** Top 1% removed  
-- **Transformation:** Logarithmic  
-- **Goal:** To understand data distribution using PDF  
+ - **Goal:** To understand data distribution using PDF  
 
 ---
 ## 3. Result Table
