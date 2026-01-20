@@ -23,6 +23,10 @@ The dataset was loaded from a CSV file using pandas.
 -Mean and other statistics were calculated
 -PDF graph was plotted using Matplotlib
 
+<img width="910" height="317" alt="image" src="https://github.com/user-attachments/assets/796b9fd2-049a-45d7-a350-a76387936f1c" />
+
+
+
 ---
 ## 2. Description
 - **Dataset Type:** Air Pollution Dataset  
